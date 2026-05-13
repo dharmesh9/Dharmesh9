@@ -20,7 +20,7 @@ I am currently building a portfolio to transition into a junior data analyst rol
 ![EDA](https://img.shields.io/badge/EDA-FF6F00?style=for-the-badge)
 ![Statistics](https://img.shields.io/badge/Statistics-7952B3?style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-`![Seaborn](https://img.shields.io/badge/Seaborn-2E5BFF?style=for-the-badge)`
+<!--![Seaborn](https://img.shields.io/badge/Seaborn-2E5BFF?style=for-the-badge) -->
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -28,7 +28,7 @@ I am currently building a portfolio to transition into a junior data analyst rol
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![APIs](https://img.shields.io/badge/APIs-4CAF50?style=for-the-badge)
-`![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)`
+<!--![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)`-->
 ![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-8E44AD?style=for-the-badge)
 
 ## 📊 GitHub Stats:
